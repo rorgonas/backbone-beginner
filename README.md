@@ -1,10 +1,3 @@
-# Important Note!
-## This is only a practice repo
-## Source: https://github.com/thomasdavis/video-backbone-beginner-server
-## Author: @thomasdavis
-
-
-
 # Backbone.js Beginner Video Tutorial
 
 ## Links
@@ -85,3 +78,9 @@ function htmlDecode(value){
   return $('<div/>').html(value).text();
 }
 ```
+
+
+## Important Note!
+### This is only a practice repo based on Thomas Davis work.
+### Source: https://github.com/thomasdavis/video-backbone-beginner-server
+### Author: @thomasdavis
