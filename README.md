@@ -82,10 +82,10 @@ function htmlDecode(value){
 
 ### Important!
 
-This is only a practice repo based on Thomas Davis work and the only perepuse is to learn!
+This is only a practice repo and my only purpose it is to learn!
 
-Source repo: https://github.com/thomasdavis/video-backbone-beginner-server
-Video tutorial: https://www.youtube.com/watch?v=FZSjvWtUxYk
+Source: https://github.com/thomasdavis/video-backbone-beginner-server <br />
+Video: https://www.youtube.com/watch?v=FZSjvWtUxYk
+Author: Thomas Davis
 
 Thank you!
-
