@@ -84,8 +84,13 @@ function htmlDecode(value){
 
 This is only a practice repo and my only purpose it is to learn!
 
+## Part I: Create index.html file with all the backbone components in one place
 <strong>Source</strong>: https://github.com/thomasdavis/video-backbone-beginner-server <br />
 <strong>Video</strong>: https://www.youtube.com/watch?v=FZSjvWtUxYk <br />
 <strong>Author</strong>: Thomas Davis
+
+### Part II: Organize into modules the application
+Repo will be refactored soon following the steps shown in tutorial below!
+<strong>Tutorial</strong>http://backbonetutorials.com/organizing-backbone-using-modules/
 
 Thank you!
