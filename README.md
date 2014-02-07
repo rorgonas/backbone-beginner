@@ -1,3 +1,10 @@
+# Important Note!
+## This is only a practice repo
+## Source: https://github.com/thomasdavis/video-backbone-beginner-server
+## Author: @thomasdavis
+
+
+
 # Backbone.js Beginner Video Tutorial
 
 ## Links
