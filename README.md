@@ -84,8 +84,8 @@ function htmlDecode(value){
 
 This is only a practice repo and my only purpose it is to learn!
 
-Source: https://github.com/thomasdavis/video-backbone-beginner-server <br />
-Video: https://www.youtube.com/watch?v=FZSjvWtUxYk
-Author: Thomas Davis
+<strong>Source</strong>: https://github.com/thomasdavis/video-backbone-beginner-server <br />
+<strong>Video</strong>: https://www.youtube.com/watch?v=FZSjvWtUxYk <br />
+<strong>Author</strong>: Thomas Davis
 
 Thank you!
