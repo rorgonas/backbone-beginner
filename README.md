@@ -80,7 +80,12 @@ function htmlDecode(value){
 ```
 
 
-## Important Note!
-### This is only a practice repo based on Thomas Davis work.
-### Source: https://github.com/thomasdavis/video-backbone-beginner-server
-### Author: @thomasdavis
+### Important!
+
+This is only a practice repo based on Thomas Davis work and the only perepuse is to learn!
+
+Source repo: https://github.com/thomasdavis/video-backbone-beginner-server
+Video tutorial: https://www.youtube.com/watch?v=FZSjvWtUxYk
+
+Thank you!
+
