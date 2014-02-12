@@ -28,13 +28,12 @@ require.config(
 // Load our app module and pass it to our definition function before loading the util module
 require(
 	[ 
-		'utils', 'app'
+		'app'
 	], 
 
-	function (Utils, App) {
+	function (App) {
 			
-			// The "app" dependency is passed in as "App"
-			Utils.initialize();
+			// The "app" dependency is passed in as "App"			
 			App.initialize();
 	}
 );

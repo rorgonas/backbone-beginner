@@ -3,14 +3,19 @@
 define(
   [
     'backbone',
-    'router'
+    'router',
+    'utils'
   ], 
 
-  function (Backbone, Router){
+  function (Backbone, Router, Utils){
  
       var initialize = function() {
+        
+        // Pass utility functions
+        Utils.initialize();
+
         // Pass in our Router module and call it's initialize function
-         Router.initialize();
+        Router.initialize();
       }
 
       return {
