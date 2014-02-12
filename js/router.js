@@ -3,7 +3,7 @@
 define(
 	[
 		'backbone',
-		'views/users/list'
+		'views/users/list-view'
 	], 
 
 	function (Backbone, UserList) {

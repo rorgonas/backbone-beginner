@@ -3,7 +3,7 @@
 define(
 	[
 		'backbone',
-		'collections/list',
+		'collections/list-collection',
 		'text!templates/users/list.html'
 	], 
 
