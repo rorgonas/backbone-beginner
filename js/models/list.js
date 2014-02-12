@@ -1,7 +1,11 @@
 // Filename: models/list
-define([
-	'backbone'
-	], function(Backbone) {
+
+define(
+	[
+		'backbone'
+	], 
+
+	function (Backbone) {
 
 			var User = Backbone.Model.extend({
 				urlRoot: '/users'
@@ -9,4 +13,6 @@ define([
 
 			// Return the model for the module
 			return User;
-	});
+
+	}
+);

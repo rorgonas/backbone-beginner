@@ -1,6 +1,11 @@
-define([
-	'backbone'
-	], function(Backbone) {
+// Filename: utils.js
+
+define(
+	[
+		'backbone'
+	], 
+
+	function (Backbone) {
 
 		var initialize = function() {
 
@@ -33,4 +38,5 @@ define([
 			initialize: initialize
 		}
 
-	});
+	}
+);

@@ -1,8 +1,12 @@
 // Filename: collections/list
-define([
-	'backbone',
-	'models/list'
-	], function(Backbone, User) {
+
+define(
+	[
+		'backbone',
+		'models/list'
+	], 
+
+	function (Backbone, User) {
 
 			var Users = Backbone.Collection.extend({
 				url: '/users',
@@ -10,4 +14,5 @@ define([
 			});
 
 			return Users;
-	});
+	}
+);
