@@ -3,7 +3,7 @@
 define(
 	[
 		'backbone',
-		'models/list-model'
+		'models/update-model'
 	], 
 
 	function (Backbone, User) {

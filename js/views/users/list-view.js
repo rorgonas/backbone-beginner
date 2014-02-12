@@ -4,15 +4,14 @@ define(
 	[
 		'backbone',
 		'collections/list-collection',
-		'text!templates/users/list.html'
+		'text!templates/users/list-template.html'
 	], 
 
 	function (Backbone, UsersCollection, UserListTemplate) {
 			
-			console.log('List view called');
 			var UserList = Backbone.View.extend({
 				el: $('.page'),
-				render: function () {
+				render: function() {
 					var self = this;
 					var users = new UsersCollection();
 					console.log('Should render view');
